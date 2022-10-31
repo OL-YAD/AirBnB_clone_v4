@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Olyad Temesgen  - [Github](https://github.com/OL-YAD) 
-Efa-Iwa Eleng
+
 
 Second part of Airbnb: Joann Vuong
 ## License
